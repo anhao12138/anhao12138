@@ -1,9 +1,9 @@
-# 首页计数器
+*[·-·]:首页计数器
 ![](https://visitor-badge.glitch.me/badge?page_id=anhao12138.readme)
 
 ![](http://antzuhl.cn:4000/get/@anhao12138.readme)
 
-# Github信息概览
+*[·-·]:Github信息概览
 ![info](https://github-readme-stats.vercel.app/api?username=anhao12138&show_icons=true&count_private=true&hide=prs&theme=mark)
 
 # linux卡片

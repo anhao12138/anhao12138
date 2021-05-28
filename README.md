@@ -2,8 +2,7 @@
 ---
 <img align="right" alt="GIF" src="https://pic1.zhimg.com/50/v2-d1f77b4ee9dc429666d7db9b6cad7da4_hd.webp?source=1940ef5c" />
 
-![](https://visitor-badge.glitch.me/badge?page_id=anhao12138.readme)
-![info](https://github-readme-stats.vercel.app/api?username=anhao12138&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
 ### I'm anhao
 
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
@@ -26,6 +25,9 @@
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
+![](https://visitor-badge.glitch.me/badge?page_id=anhao12138.readme)
+![info](https://github-readme-stats.vercel.app/api?username=anhao12138&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
